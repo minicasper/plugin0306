@@ -1,0 +1,4 @@
+name: plugin0306
+version: '${project.version}'
+main: casper.plugin.Plugin0306
+api-version: 1.15
